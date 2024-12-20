@@ -1,1 +1,1 @@
-console.log("hello buddy! v3")
+console.log(hello buddy! v3")
